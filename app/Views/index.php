@@ -407,138 +407,116 @@
       </div>
    </div> -->
    
-                  <div class="gallery-box-section gallery-main-wrapper float_left gallery-main-page">
-                     <div class="container">
-                     <div class="row">
-                     <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+   <div class="gallery-main-wrapper float_left">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                <div class="page-2-heading">
-                  <h4>
-                     Our <span>Founders</span>
+                  <h4 class="text-color">
+                     Our Gallery
                   </h4>
                </div>
             </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                           <div class="portfolio_img_wrapper">
-                              <div class="portfolio_img">
-                                 <img src="images/gallery-img1.jpg" class="img-responsive" alt="team1_img" id="myImg">
-                                 <div class="portfolio_img_overlay overlay-color">
-                                    <div class="portfolio_img_text">
-                                       <a href="images/gallery-img1.jpg" title="image3" class="img-link">
-                                          <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                           <div class="portfolio_img_wrapper">
-                              <div class="portfolio_img">
-                                 <img src="images/gallery-img2.jpg" class="img-responsive" alt="team1_img">
-                                 <div class="portfolio_img_overlay overlay-color">
-                                    <div class="portfolio_img_text">
-                                       <a href="images/gallery-img2.jpg" title="image4" class="img-link">
-                                          <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                           <div class="portfolio_img_wrapper">
-                              <div class="portfolio_img">
-                                 <img src="images/gallery-img3.jpg" class="img-responsive" alt="team1_img">
-                                 <div class="portfolio_img_overlay overlay-color">
-                                    <div class="portfolio_img_text">
-                                       <a href="images/gallery-img3.jpg" title="image5" class="img-link">
-                                          <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                           <div class="portfolio_img_wrapper">
-                              <div class="portfolio_img">
-                                 <img src="images/home3/gallery-img11.jpg" class="img-responsive" alt="team1_img">
-                                 <div class="portfolio_img_overlay overlay-color">
-                                    <div class="portfolio_img_text">
-                                       <a href="images/home3/gallery-img11.jpg" title="image6" class="img-link">
-                                          <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                           <div class="portfolio_img_wrapper">
-                              <div class="portfolio_img">
-                                 <img src="images/gallery-img1.jpg" class="img-responsive" alt="team1_img">
-                                 <div class="portfolio_img_overlay overlay-color">
-                                    <div class="portfolio_img_text">
-                                       <a href="images/gallery-img1.jpg" title="image1" class="img-link">
-                                          <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                           <div class="portfolio_img_wrapper">
-                              <div class="portfolio_img">
-                                 <img src="images/home3/gallery-img7.jpg" class="img-responsive" alt="team1_img">
-                                 <div class="portfolio_img_overlay overlay-color">
-                                    <div class="portfolio_img_text">
-                                       <a href="images/home3/gallery-img7.jpg" title="image2" class="img-link">
-                                          <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                           <div class="portfolio_img_wrapper">
-                              <div class="portfolio_img">
-                                 <img src="images/home3/gallery-img8.jpg" class="img-responsive" alt="team1_img">
-                                 <div class="portfolio_img_overlay overlay-color">
-                                    <div class="portfolio_img_text">
-                                       <a href="images/home3/gallery-img8.jpg" title="image3" class="img-link">
-                                          <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                           <div class="portfolio_img_wrapper">
-                              <div class="portfolio_img">
-                                 <img src="images/home3/gallery-img10.jpg" class="img-responsive" alt="team1_img">
-                                 <div class="portfolio_img_overlay overlay-color">
-                                    <div class="portfolio_img_text">
-                                       <a href="images/gallery-img10.jpg" title="image5" class="img-link">
-                                          <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-12 col-md-12 col-12">
-                           <div class="text-center mt-3">
-                              <a href="javascript:;" class="button-btn mt-4">Load More
-                                 <span><i class="fas fa-angle-double-right"></i></span>
-                              </a>
-                           </div>
+         </div>
+      </div>
+   </div>
+<!-- gallery main wrapper start -->
+   <div class="gallery-box-section float_left">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+               <div class="portfolio_img_wrapper">
+                  <div class="portfolio_img">
+                     <img src="images/gallery-img1.jpg" class="img-responsive" alt="team1_img">
+                     <div class="portfolio_img_overlay">
+                        <div class="portfolio_img_text">
+                           <a href="images/gallery-img1.jpg" title="image3" class="img-link">
+                              <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
+                           </a>
                         </div>
                      </div>
                   </div>
-
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+               <div class="portfolio_img_wrapper">
+                  <div class="portfolio_img">
+                     <img src="images/gallery-img2.jpg" class="img-responsive" alt="team1_img">
+                     <div class="portfolio_img_overlay">
+                        <div class="portfolio_img_text">
+                           <a href="images/gallery-img2.jpg" title="image4" class="img-link">
+                              <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+               <div class="portfolio_img_wrapper">
+                  <div class="portfolio_img">
+                     <img src="images/gallery-img3.jpg" class="img-responsive" alt="team1_img">
+                     <div class="portfolio_img_overlay">
+                        <div class="portfolio_img_text">
+                           <a href="images/gallery-img3.jpg" title="image5" class="img-link">
+                              <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+               <div class="portfolio_img_wrapper">
+                  <div class="portfolio_img">
+                     <img src="images/gallery-img4.jpg" class="img-responsive" alt="team1_img">
+                     <div class="portfolio_img_overlay">
+                        <div class="portfolio_img_text">
+                           <a href="images/gallery-img4.jpg" title="image6" class="img-link">
+                              <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+               <div class="portfolio_img_wrapper">
+                  <div class="portfolio_img">
+                     <img src="images/gallery-img5.jpg" class="img-responsive" alt="team1_img">
+                     <div class="portfolio_img_overlay">
+                        <div class="portfolio_img_text">
+                           <a href="images/gallery-img5.jpg" title="image1" class="img-link">
+                              <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+               <div class="portfolio_img_wrapper">
+                  <div class="portfolio_img">
+                     <img src="images/gallery-img6.jpg" class="img-responsive" alt="team1_img">
+                     <div class="portfolio_img_overlay">
+                        <div class="portfolio_img_text">
+                           <a href="images/gallery-img6.jpg" title="image2" class="img-link">
+                              <img src="images/plus-Icon.png" alt="img" aria-hidden="true">
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-12 col-md-12 col-12">
+               <div class="text-center mt-5">
+                  <a href="gallery.html" class="page2-btn bg-change">See all Images</a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   
 
    <!-- index 02 page team section end -->
    <!-- index 02 page gallery section start-->
