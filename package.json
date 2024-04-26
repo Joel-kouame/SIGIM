@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "alertifyjs": "^1.13.1",
+    "firebase": "^10.7.1",
+    "maildev": "^2.1.0",
+    "toastify-js": "^1.12.0"
+  }
+}
